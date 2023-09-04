@@ -1,0 +1,19 @@
+total 68
+-rw-rw-r-- 1 chukascript chukascript    7 Sep  4 18:05 *\"Best School"\\*$?*****:
+drwxr-xr-x 2 chukascript chukascript 4096 Sep  4 18:23 .
+drwxr-xr-x 6 chukascript chukascript 4096 Sep  4 15:48 ..
+-rwxr-xr-x 1 chukascript chukascript   32 Sep  4 16:24 0-hello_world
+-rwxrw-r-- 1 chukascript chukascript   30 Sep  4 16:47 1-confused_smiley
+-rwxr-xr-x 1 chukascript chukascript   28 Sep  4 16:18 2-hellofile
+-rwxrw-r-- 1 chukascript chukascript   39 Sep  4 16:57 3-twofiles
+-rwxrw-r-- 1 chukascript chukascript   35 Sep  4 17:06 4-lastlines
+-rwxrw-r-- 1 chukascript chukascript   35 Sep  4 17:17 5-firstlines
+-rwxr-xr-x 1 chukascript chukascript   40 Sep  4 17:40 6-third_line
+-rwxrw-r-- 1 chukascript chukascript   70 Sep  4 18:01 7-file
+-rwxrw-r-- 1 chukascript chukascript   37 Sep  4 18:23 8-cwd_state
+-rwxr-xr-x 1 chukascript chukascript  549 Sep  4 17:34 README.md
+-rw-rw-r-- 1 chukascript chukascript   40 Sep  4 18:00 \*\\'"Best
+-rwxr-xr-x 1 chukascript chukascript   71 Sep  4 15:41 gitty
+-rw-rw-r-- 1 chukascript chukascript   21 Sep  4 17:39 iacta
+-rw-rw-r-- 1 chukascript chukascript    0 Sep  4 18:23 ls_cwd_content
+-rwxr-xr-x 1 chukascript chukascript   12 Sep  4 15:41 sheang
