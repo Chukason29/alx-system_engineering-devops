@@ -4,3 +4,4 @@
 - 1-confused_smiley is used to Write a script that displays a confused smiley "(Ôo)'.
 - 3-twofiles is used to Display the content of /etc/passwd and /etc/hosts
 - 4-lastlines is used to Display the last 10 lines of /etc/passwd
+- 6-third_line is used to Write a script that displays the third line of the file iacta.
